@@ -1,0 +1,13 @@
+.leftnav h1{
+    font-size: 90px;
+}
+.leftnav{
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+
+    
+    
+}

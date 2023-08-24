@@ -1,0 +1,47 @@
+.datepic-container{
+    margin-top: 15px;
+    display: flex;
+    /* width: fit-content; */
+    gap: 15px;
+}
+.datepic-container input{
+    border-radius: 5px;
+    width: 201px;
+    height: 60px;
+    border: none;
+    background-color: #F2F2F2;
+    padding-left: 20px;
+}
+
+.date-main{
+    /* border: 2px solid khaki; */
+    /* position: absolute; */
+    padding: 35px;
+    background-color: white;
+    width: 485px;
+    
+    text-align: start;
+    color: black;
+    border-radius: 10px;
+    box-shadow: 0 0 20px black;
+    margin-top: 85px;
+    margin-bottom: 126px;
+}
+.field-container input{
+    width: 417px;
+    height: 60px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    border: none;
+    background-color: #F2F2F2;
+    padding-left: 20px;
+}
+/* .datepic-1, .datepic-2{
+
+} */
+
+.main-date-container{
+    
+    height: 636px;
+    overflow-y: hidden;
+}

@@ -1,0 +1,26 @@
+.header a {
+    text-decoration: none;
+    margin-right: 20px;
+    color: white;
+    font-weight: 700;
+}
+.img-color-change {
+    filter:brightness(1000%);
+  }
+
+  input::placeholder {
+    padding-left: 40px; /* Adjust the padding to make space for the icon */
+    background-image: url('./../../../assets/images/icons/magnifying-glass-solid.svg');
+    background-repeat: no-repeat;
+    background-position: 8px center;
+    opacity: 0.5;
+  }
+  /* In this example, we use the ::placeholder pseudo-element to apply CSS styles to the placeholder text of the input element. The background-image property is used to set the icon as a background image. Adjust the padding-left, background-position, and other properties to achieve the desired placement and appearance.
+   */
+   .loginNav-container a{
+    color: black;
+}
+  
+  
+  
+  

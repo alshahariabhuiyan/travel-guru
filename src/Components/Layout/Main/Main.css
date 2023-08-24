@@ -1,0 +1,22 @@
+.main-container {
+    position: relative;
+    background-image: url('./../../../assets/images/icons/Rectangle 1.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    overflow-x: hidden;
+  }
+  
+  .overlay {
+   
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  
+ 
+  .text {
+    position: relative;
+    z-index: 1;
+    color: white;
+    text-align: center;
+    
+  }
+  

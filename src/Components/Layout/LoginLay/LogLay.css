@@ -1,0 +1,9 @@
+.twoForm {
+    margin: 0 auto;
+    height: fit-content;
+    width: fit-content;
+    box-shadow: 0 0 10px gray;
+    border-radius: 8px;
+    padding-bottom: 5px;
+
+}

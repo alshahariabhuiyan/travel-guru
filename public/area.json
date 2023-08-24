@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "COXS BAZAR",
+        "description": "Cox's Bazar is a picturesque coastal town located in southeastern Bangladesh. It boasts one of the longest sandy beaches in the world, stretching over 120 kilometers along the Bay of Bengal. The azure waters, golden sands, and gentle sea breeze make it a popular destination for beach lovers and sun seekers. Visitors can enjoy beach activities, water sports, and breathtaking sunsets. The town also offers a vibrant local market, delicious seafood, and opportunities to explore nearby attractions."
+    },
+    {
+        "id": 2,
+        "name": "SREEMANGAL",
+        "description": "Nestled in the heart of Bangladesh's tea country, Sreemangal is a serene and verdant town known for its lush tea gardens, rolling hills, and vibrant biodiversity. It's often referred to as the 'Tea Capital of Bangladesh' due to its numerous tea estates that produce some of the finest tea in the region. Apart from tea, Sreemangal is a paradise for birdwatchers, with a variety of bird species inhabiting its forests and wetlands. The Lawachara National Park and Ratargul Swamp Forest offer opportunities for eco-tourism and trekking, allowing visitors to immerse themselves in nature's beauty."
+    },
+    {
+        "id": 3,
+        "name": "SUNDARBAN",
+        "description": "The Sundarbans, located in the southwestern part of Bangladesh, is the largest mangrove forest in the world and a UNESCO World Heritage Site. This unique ecosystem is home to the elusive Bengal tiger, along with various species of wildlife, including crocodiles, spotted deer, and diverse bird species. The interplay of water and land creates a breathtaking landscape of tidal waterways, mudflats, and small islands. Visitors can explore the mangroves by boat, witnessing the incredible biodiversity and the intricate root systems that support this fragile ecosystem. The Sundarbans is not only a natural wonder but also an important buffer against cyclones and coastal erosion."
+    }
+]
